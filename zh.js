@@ -18,7 +18,7 @@ generic.connecting 连接中…
 generic.select 选择
 generic.delete 删除
 generic.save 保存
-generic.load 加载
+generic.loading 加载中
 generic.search 搜索
 generic.leave 离开
 generic.default 默认
@@ -59,7 +59,7 @@ generic.register 注册
 generic.login 登录
 generic.accuracy 命中率
 player.waiting 等待更多玩家加入
-player.died 你死了
+player.died 已经死亡
 player.killed 被此玩家击杀
 player.killstreak {0} on a {1} Kill Streak
 player.inactive 由于你的空闲时间过长，你已被踢出此服务器
@@ -978,5 +978,5 @@ server.message.left {0} 已离开此服务器
 server.message.kicked {0} 已被踢出
 server.message.banned {0} 已被封禁
 server.message.votekicked {0} 已被投票踢出
-server.message.arrested {0} 已被 K.P.D 逮捕
+server.message.arrested {0} 已被 K.P.D(KrunkerPoliceDepartment) 逮捕
 `;
